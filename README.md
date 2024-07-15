@@ -3,6 +3,7 @@ Overview:
 
 Projects:
 
+Cat Gallery Project
 ![image](https://github.com/user-attachments/assets/fac02fc7-7b85-45a8-9315-2896d56cb5f9)
 
 
