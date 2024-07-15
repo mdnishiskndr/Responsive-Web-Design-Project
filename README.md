@@ -1,5 +1,5 @@
 Overview:
-
+This project was undertaken as responsive web design projects to elevate proficiency in HTML5, CSS and enhance skills in web designing. The projects was related to the materials available in freeCodeCamp websites. There are 5 different responsive web design projects.
 
 Projects:
 
