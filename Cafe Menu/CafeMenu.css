@@ -1,0 +1,78 @@
+body{
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+    font-family: sans-serif;
+    padding: 20px;
+}
+.menu{
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+h1, h2, p {
+    text-align: center;
+    font-family: Impact;
+}
+h1, h2{
+    font-family: Impact, serif;
+}
+.established{
+    font-style: italic;
+}
+h1{
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+h2{
+    font-size: 30px;
+}
+hr{
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+.address{
+    margin-bottom: 5px;
+}
+.flavor, .dessert{
+    text-align: left;
+    width: 75%;
+}
+.price{
+    text-align: right;
+    width: 25%;
+}
+.item p{
+    display: inline-block; /*inline-block allow for all element inside this define css class to be in the same line */
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+}
+.bottom-line{
+    margin-top: 25px;
+}a
+/* FOOTER */
+footer{
+    font-size: 14px;
+}
+a{
+    color: black;
+}
+a:visited{ /* this css selector will only turn the color of link text that has been visited */
+    color: black;
+}
+a:hover{ /* this css selector will change the color of link text when hover */
+    color: brown;
+}
+a:active{ /* this css selector will change the color of link text when clicked */
+    color: brown;
+}

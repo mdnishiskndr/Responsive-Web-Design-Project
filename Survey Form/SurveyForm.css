@@ -1,0 +1,96 @@
+/* [color:] represent color of the text */
+/* [element-name]:last-of-type will only select the last element */
+/* [width: unset] will remove the width set into the general form */
+/* input[type="submit"] will select the attribute value and only change its style */
+
+body {
+    margin: 0;
+    background-image: linear-gradient(115deg, rgba(58, 58, 158, 0.8), rgba(136, 136, 206, 0.7)), url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+    color: #f5f6f7;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.4;
+}
+  
+h1, p {
+    margin: 1em auto;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+p {
+    font-style: italic;
+    font-size: 1.125rem;
+    font-weight: 200;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+form {
+    width: 60vw;
+    min-width: 480px;
+    margin: 0 auto;
+    padding-bottom: 2rem;
+    background-color: rgba(7, 7, 87, 0.781);
+    border-radius: 0.25rem;
+}
+  
+fieldset {
+    border: none;
+    margin: 0 auto 1.25rem auto;
+    padding: 0.25rem;
+}
+  
+fieldset:last-of-type {
+    border-bottom: none;
+    margin: 0 auto 1.25rem auto;
+}
+  
+label {
+    display: block;
+    margin: 0 auto 1.25rem auto;
+    padding: 0.25rem;
+    align-items: center;
+    font-size: 1.125rem;
+    margin-bottom: 0.5rem;
+}
+  
+input, textarea, select {
+    margin: 0;
+    width: 100%;
+    height: 2.375rem;
+    border-radius: 5px;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+  
+input, textarea {
+    background-color: white;
+    border: 1px solid #0a0a23;
+    color: grey;
+}
+  
+.inline {
+    width: unset;
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+}
+  
+input[type="submit"] {
+    display: block;
+    width: 60%;
+    margin: 1em auto;
+    height: 2em;
+    font-size: 1.1rem;
+    background-color: green;
+    color: white;
+    min-width: 300px;
+}
+
+
