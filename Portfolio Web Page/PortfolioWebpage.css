@@ -1,0 +1,175 @@
+@media (prefers-reduced-motion: no-preference) {
+    * {
+      scroll-behavior: smooth;
+    }
+  }
+
+*{
+    margin: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 1.4;
+    color: white;
+}
+
+.nav{
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: darkred;
+}
+
+.nav-list{
+    display: flex;
+    margin-right: 2rem;
+}
+
+ul{
+    list-style: none;
+}
+
+.nav-list a{
+    display: block;
+    font-size: 2.2rem;
+    padding: 2rem;
+    text-decoration: none;
+    color: white;
+}
+
+.welcome-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    background: black;
+    background-image: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
+}
+
+.welcome-section > h1{
+    font-size: 6rem;
+}
+
+.welcome-section > p{
+    font-size: 3rem;
+    font-weight: 200;
+    font-style: italic;
+    color: darkred;
+}
+
+h1, h2{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.projects-section{
+    text-align: center;
+    padding: 10rem 2rem;
+    background-color: rgb(68, 68, 143);
+}
+
+h2{
+    max-width: 640px;
+    margin: 0 auto 6rem auto;
+    border-bottom: 0.2rem solid white;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-gap: 4rem;
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+    margin-bottom: 6rem;
+}
+
+.project-image{
+    height: calc(100% - 6.8rem);
+    width: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.project-tile{
+    font-size: 1.8rem;
+    padding: 2rem 0.5rem;
+    background: #3a3d40;
+    border-radius: 2px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.btn-show-all{
+    font-size: 2rem;
+    background: #3a3d40;
+    transition: transform 0.3s ease-out;
+}
+
+.btn{
+    padding: 1rem 2rem;
+    border-radius: 2px;
+}
+
+.contact-section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 80vh;
+    padding: 0 2rem;
+    background: #3a3d40;
+}
+
+.contact-header > h1{
+    font-size: 6rem;
+}
+
+.contact-header > p{
+    font-style: italic;
+    text-align: center;
+}
+
+.contact-links{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 980px;
+    margin-top: 4rem;
+    flex-wrap: wrap;
+}
+
+.button-contact-links{
+    font-size: 2.4rem;
+    transition: transform 0.3s ease-out;
+    padding: 1rem 2rem;
+}
+
+.fab, .fas{
+    font-family: "Font Awesome 5 Brands";
+}
+
+footer{
+    font-weight: 300;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem;
+    background: #3a3d40;
+    border-top: 4px solid darkred;
+}
+
+footer > p{
+    margin: 2rem;
+}
