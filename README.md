@@ -13,6 +13,9 @@ Random Quote Machine (Magazine) Project
 ![image](https://github.com/user-attachments/assets/83aa1359-bc81-40ec-8412-82591e67e9b8)
 
 Calculator (Magazine) Project
+
+
+
 ![image](https://github.com/user-attachments/assets/12742959-73a6-4cb6-bb80-72b31f822178)
 
 Nutrition Label Project
@@ -23,3 +26,5 @@ Quiz Page Project
 
 Tribute Page Project
 ![image](https://github.com/user-attachments/assets/9947c5d5-5269-4204-aa9b-a0feddfc3f8d)
+
+
