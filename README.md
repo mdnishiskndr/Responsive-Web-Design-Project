@@ -13,13 +13,14 @@ Random Quote Machine (Magazine) Project
 ![image](https://github.com/user-attachments/assets/83aa1359-bc81-40ec-8412-82591e67e9b8)
 
 Calculator (Magazine) Project
-
-
-
 ![image](https://github.com/user-attachments/assets/12742959-73a6-4cb6-bb80-72b31f822178)
 
 Nutrition Label Project
 ![image](https://github.com/user-attachments/assets/f55e93f7-7b03-4676-a492-ed1e3c611a3e)
+
+freeCodeCamp Portfolio Page Project
+![image](https://github.com/user-attachments/assets/1025fe42-0972-4335-ae46-b3694b00b36c)
+
 
 Quiz Page Project
 ![image](https://github.com/user-attachments/assets/cf70c93d-38da-44e1-b2a2-ee356730e347)
