@@ -5,7 +5,7 @@ This project was undertaken as responsive web design projects to elevate profici
 
 
 Projects:
-1. Cat Gallery Project
+1. Cat Gallery
 2. Random Quote Machine (Magazine)
 3. Calculator (Magazine)
 4. Nutrition Label
