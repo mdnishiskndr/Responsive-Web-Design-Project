@@ -15,3 +15,6 @@ This project was undertaken as responsive web design projects to elevate profici
 
 ## Interface
 ![image](https://github.com/user-attachments/assets/1025fe42-0972-4335-ae46-b3694b00b36c)
+
+![image](https://github.com/user-attachments/assets/7cae1f5f-eef8-40d3-ad19-08510429b474)
+
