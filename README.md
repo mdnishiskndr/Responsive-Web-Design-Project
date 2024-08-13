@@ -13,20 +13,20 @@ This project was undertaken as responsive web design projects to elevate profici
 - [freeCodeCamp Portfolio Page](#freeCodeCamp-Portfolio-Page)
 
 
-### Cat Gallery
+## Cat Gallery
 
 
-### Random Quote Machine
+## Random Quote Machine
 
-### Calculator
+## Calculator
 
-### Nutrition Label
+## Nutrition Label
 
-### Quiz Page
+## Quiz Page
 
-### Tribute Page
+## Tribute Page
 
-### freeCodeCamp Portfolio Page
+## freeCodeCamp Portfolio Page
 
 
 Interface Overview:
