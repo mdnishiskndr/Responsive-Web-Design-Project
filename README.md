@@ -10,7 +10,7 @@ This project was undertaken as responsive web design projects to elevate profici
 - Nutrition Label
 - Quiz Page
 - Tribute Page
-- freeCodeCamp Portfolio Page
+- Responsive Web Design Portfolio Page
 
 
 ## Interface
