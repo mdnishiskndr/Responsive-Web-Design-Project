@@ -4,7 +4,7 @@ This project was undertaken as responsive web design projects to elevate profici
 
 
 ## Table of Content
-1. [Cat Gallery](#Cat-Gallery)
+1. [Cat Gallery](#1.-Cat-Gallery)
 2. [Random Quote Machine](#Random-Quote-Machine)
 3. [Calculator](#Calculator)
 4. [Nutrition Label](#Nutrition-Label)
