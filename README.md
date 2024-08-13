@@ -4,7 +4,7 @@ This project was undertaken as responsive web design projects to elevate profici
 
 
 ## Table of Content
-1. [Cat Gallery](#1.-Cat-Gallery)
+1. [Cat Gallery](#1.Cat-Gallery)
 2. [Random Quote Machine](#Random-Quote-Machine)
 3. [Calculator](#Calculator)
 4. [Nutrition Label](#Nutrition-Label)
@@ -13,7 +13,7 @@ This project was undertaken as responsive web design projects to elevate profici
 7. [freeCodeCamp Portfolio Page](#freeCodeCamp-Portfolio-Page)
 
 
-## 1. Cat Gallery
+## 1.Cat Gallery
 This project is a simple photo gallery web page that displays a collection of cat images using CSS Flexbox for layout management. The gallery is fully responsive, ensuring that the images are presented in an aesthetically pleasing manner across different screen sizes.
 
 ### Features
